@@ -7,8 +7,9 @@ The masks are then tracked across the image series, using btrack, for their posi
 The project could be useful for live-cell imaging studies observing genealogy and movement statistics of different cell types.
 
 In case of live-cell imaging of time-dependent fluorophores, channel data for the specific fluorophores can be used to determine the time duration statistics of specific processes, such as cell cycle dynamics. 
-(The code was originally developed to extract data-relating to detect dynamics of specific cell cycle proteins)
+(The code was originally developed to extract data-relating to detect dynamics of specific cell cycle proteins).
 
+Developed by Ikshan Ganpathi, at the lab of Prof. Sandip Kar, Department of Chemistry, IIT-Bombay. (https://www.tsbl-skar.com)
 
 ## Installation
 ```bash
